@@ -1,4 +1,4 @@
-# Pyton.PY
+# Python.PY
 
 <img src="https://i2.wp.com/www.vooo.pro/insights/wp-content/uploads/2018/05/Python_logo.png" />
 
