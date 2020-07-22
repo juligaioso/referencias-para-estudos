@@ -13,6 +13,7 @@
 <p><a href="https://www.youtube.com/watch?v=S9uPNppGsGo&app=desktop">Curso Python - Guanabara</a></p>
 <p><a href="https://www.youtube.com/eduardomendes">Canal do Eduardo Mendes</a></p>
 <p><a href="https://www.youtube.com/watch?v=KA_isOSCgoY&list=PLjSf4DcGBdiGxUvXpz4faBkhB_DCu56cq">Codeshow</a>
+<p><a href="https://www.youtube.com/watch?v=zVdnopPLnKE">ReisDev</a></p>
   
 ## Twitch
 
