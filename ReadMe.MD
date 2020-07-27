@@ -31,6 +31,7 @@
 <p><a href="https://python.org.br/introducao/">Python BR</a></p>
 <p><a href="https://tutorial.djangogirls.org/pt/">Django Girls</a></p>
 <p><a href="https://www.python.org/dev/peps/pep-0008/">PEP8</a></p>
+<p><a href="https://github.com/wendrewdevelop/python4noobs">Python 4Noobs</a></p>
 
 ## Livros
 
