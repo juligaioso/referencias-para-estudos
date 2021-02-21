@@ -14,6 +14,7 @@
 <p><a href="https://www.youtube.com/eduardomendes">Canal do Eduardo Mendes</a></p>
 <p><a href="https://www.youtube.com/watch?v=KA_isOSCgoY&list=PLjSf4DcGBdiGxUvXpz4faBkhB_DCu56cq">Codeshow</a>
 <p><a href="https://www.youtube.com/watch?v=zVdnopPLnKE">ReisDev</a></p>
+<p><a href="https://www.youtube.com/c/DevAprender/videos>Dev Aprender</a></p>
   
 ## Twitch
 
@@ -32,6 +33,8 @@
 <p><a href="https://tutorial.djangogirls.org/pt/">Django Girls</a></p>
 <p><a href="https://www.python.org/dev/peps/pep-0008/">PEP8</a></p>
 <p><a href="https://github.com/wendrewdevelop/python4noobs">Python 4Noobs</a></p>
+<p><a href="https://medium.com/rafaeltardivo/tagged/python">Medium Rafael Tardivo</a></p>
+<p><a href="https://scrimba.com/course/gpython/enrolled">Scrimba - Learn Python for free</a></p>
 
 ## Livros
 
