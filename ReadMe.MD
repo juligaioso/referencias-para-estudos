@@ -5,9 +5,9 @@
 
 ## canal
 
-[Youtube](youtube.md)
+ - [Youtube](./canal/Youtube.MD)
 
 ## conteúdo
 
-[Javascript](javascript.md)
-[Python](python.md)
+- [Javascript](conteudo/Javascript.MD)
+- [Python](conteudo/Python.MD)
