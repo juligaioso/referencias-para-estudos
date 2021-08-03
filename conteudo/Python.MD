@@ -1,9 +1,5 @@
 # Python.PY
 
-<img src="https://i2.wp.com/www.vooo.pro/insights/wp-content/uploads/2018/05/Python_logo.png" />
-
-<p>Repositório criado com o objetivo de reunir e organizar os materiais gratuitos sobre python que estou reunindo nos meus estudos</p>
-<p>Caso queira contribur, basta enviar um pull request (:</p>
 
 ## Youtube
 
@@ -14,8 +10,8 @@
 <p><a href="https://www.youtube.com/eduardomendes">Canal do Eduardo Mendes</a></p>
 <p><a href="https://www.youtube.com/watch?v=KA_isOSCgoY&list=PLjSf4DcGBdiGxUvXpz4faBkhB_DCu56cq">Codeshow</a>
 <p><a href="https://www.youtube.com/watch?v=zVdnopPLnKE">ReisDev</a></p>
-<p><a href="https://www.youtube.com/c/DevAprender/videos>Dev Aprender</a></p>
-  
+<p><a href="https://www.youtube.com/c/DevAprender/videos">Dev Aprender</a></p>
+
 ## Twitch
 
 <p><a href="https://www.twitch.tv/codeshow ">CodeShow</a></p>

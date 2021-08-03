@@ -21,3 +21,10 @@
 <p><a href="https://www.youtube.com/user/l32759">Glaucia Lemos</a></p>
 <p><a href="https://www.youtube.com/user/linuxtipscanal">Linux Tips</a></p>
 <p><a href="https://www.youtube.com/user/andrebaltieri">André Baltieri</a></p>
+<p><a href="https://www.youtube.com/channel/UCripRddD4BnaMcU833ExuwA">Python para Zumbis</a></p>
+<p><a href="https://www.youtube.com/channel/UCjBDPBy_A8bUnyiXQrwyuxg">Ana no Terminal</a></p>
+<p><a href="https://www.youtube.com/watch?v=S9uPNppGsGo&app=desktop">Curso Python - Guanabara</a></p>
+<p><a href="https://www.youtube.com/eduardomendes">Canal do Eduardo Mendes</a></p>
+<p><a href="https://www.youtube.com/watch?v=KA_isOSCgoY&list=PLjSf4DcGBdiGxUvXpz4faBkhB_DCu56cq">Codeshow</a>
+<p><a href="https://www.youtube.com/watch?v=zVdnopPLnKE">ReisDev</a></p>
+<p><a href="https://www.youtube.com/c/DevAprender/videos">Dev Aprender</a></p>
